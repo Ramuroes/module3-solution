@@ -1,0 +1,140 @@
+* {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.row{
+	width: 100%;
+}
+h1{
+	text-align: center;
+    color: #ffffff;
+}
+
+body{
+    background-color: #252735;
+}
+
+p{
+    padding: 10px;
+    margin:0;
+}
+
+.container{
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+section{
+    border: 1px solid white;
+    background-color: #2a3142;
+    width: 100%;
+    height: auto;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    position: relative;
+    overflow: auto;
+}
+
+#chicken {
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    text-align: center;
+    width:30%;
+    margin-left: 70%;
+    font-weight: bold;
+    font-size: 125%;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding:5px;
+    background-color: #056c81;
+}
+
+#beef {
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    text-align: center;
+    width:30%;
+    margin-left: 70%;
+    font-weight: bold;
+    font-size: 125%;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding:5px;
+    background-color: #ec4561;
+}
+
+#sushi {
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
+    text-align: center;
+    width:30%;
+    margin-left: 70%;
+    font-weight: bold;
+    font-size: 125%;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding:5px;
+    background-color: #059c93;
+}
+#chicken-div {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#beef-div {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#sushi-div {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.navbar-brand{
+    font-size: 2em;
+    border: 0 0 10px 10px;
+    color: #ffffff;
+}
+/** HEADER **/
+#header-nav {
+    border: 0;
+    border-radius: 0;
+    background-color: #626ed4;
+    color: #ffffff;
+}
+.nav-brand {
+    font-size: 1.5em;
+    color: #ffffff;
+    
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid  #ffffff;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
+
+.nav-header {
+    background-color: #ffffff;
+}
+
+
+
+#nav-list{
+    color: white;
+    margin-top: 10px;
+}
+hr {
+    border-color: white;
+  }
+
+.item {
+    color: white;
+    font-size: 1.2em;
+}
+
